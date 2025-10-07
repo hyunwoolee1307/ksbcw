@@ -2,3 +2,4 @@
 data/
 env/
 *.html
+.ipynb_checkpoints/
