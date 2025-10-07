@@ -2,21 +2,22 @@ name: ocean-research
 channels:
   - conda-forge
 dependencies:
-  - scikit-learn
-  - gsw
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
   - jupyterlab
   - pandas
+  - statsmodels
   - seaborn
-  - nc-time-axis
-  - netcdf4
-  - numpy
   - sympy
+  - cython
+  - xarray
+  - dask
+  - netCDF4
+  - pint
+  - pint-xarray
+  - gsw
   - gsw-xarray
   - cftime
-  - cython
-  - dask
-  - statsmodels
-  - scipy
-  - xarray
-  - matplotlib
-prefix: /home/hyunwoo/miniforge3/envs/ocean-research
+  - cartopy
