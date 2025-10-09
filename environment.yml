@@ -21,3 +21,4 @@ dependencies:
   - gsw-xarray
   - cftime
   - cartopy
+  - h5py
