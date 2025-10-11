@@ -3,4 +3,4 @@ data/
 env/
 *.html
 .ipynb_checkpoints/
-.venv/
+src/__pycache__/

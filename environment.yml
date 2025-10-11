@@ -22,3 +22,5 @@ dependencies:
   - cftime
   - cartopy
   - h5py
+  - metpy
+  - nc-time-axis
