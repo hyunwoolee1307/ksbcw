@@ -24,3 +24,5 @@ dependencies:
   - h5py
   - metpy
   - nc-time-axis
+  - bottleneck
+  - xeofs
