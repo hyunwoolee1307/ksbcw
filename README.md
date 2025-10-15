@@ -14,8 +14,8 @@
 ---
 ## Terminology
 
-KSBCW (Korea Strait Bottom Cold Water): Water mass under 10 degree Celsius temperature located in bottom of Korea Strait
-[Korea Strait](https://en.wikipedia.org/wiki/Korea_Strait): sea passage in East Asia between the Korean Peninsula and Japan
+- KSBCW (Korea Strait Bottom Cold Water): Water mass under 10 degree Celsius temperature located in bottom of Korea Strait
+- [Korea Strait](https://en.wikipedia.org/wiki/Korea_Strait): sea passage in East Asia between the Korean Peninsula and Japan
 
 ---
 ## Data
